@@ -4,11 +4,9 @@ Essa projeto contém os documentos e as sprints pedidas pelo professor Egydio, t
 
 Projeto criado pelos alunos: 
 
-Alunos                                    |   RA
----------------------------------------------------
-Arthur Ricarte Machado						        | G506499
-Edson de Andrade Filho					          | N784423
-Luiz Carlos Pedro Junior						      | N8422E2
-Thiago Barreto da Silva						        | N767952
-Vitor Alexandre Lescura dos Santos			  | T943CA2
----------------------------------------------------
+Arthur Ricarte Machado						        G506499
+Edson de Andrade Filho					          N784423
+Luiz Carlos Pedro Junior						      N8422E2
+Thiago Barreto da Silva						        N767952
+Vitor Alexandre Lescura dos Santos			  T943CA2
+
